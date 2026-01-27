@@ -1,0 +1,14 @@
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\bin\Debug\net10.0\ConceptosBasicos.exe
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\bin\Debug\net10.0\ConceptosBasicos.deps.json
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\bin\Debug\net10.0\ConceptosBasicos.runtimeconfig.json
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\bin\Debug\net10.0\ConceptosBasicos.dll
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\bin\Debug\net10.0\ConceptosBasicos.pdb
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.AssemblyInfoInputs.cache
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.AssemblyInfo.cs
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.dll
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\refint\ConceptosBasicos.dll
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.pdb
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ConceptosBasicos.genruntimeconfig.cache
+C:\Users\Dgo\Documents\IPC2 2026\semana_1\semana_1\ConceptosBasicos\obj\Debug\net10.0\ref\ConceptosBasicos.dll
