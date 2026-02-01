@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\semana_2.csproj": {}
+    "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\Abstraccion\\Abstraccion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\semana_2.csproj": {
+    "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\Abstraccion\\Abstraccion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\semana_2.csproj",
-        "projectName": "semana_2",
-        "projectPath": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\semana_2.csproj",
+        "projectUniqueName": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\Abstraccion\\Abstraccion.csproj",
+        "projectName": "Abstraccion",
+        "projectPath": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\Abstraccion\\Abstraccion.csproj",
         "packagesPath": "C:\\Users\\Dgo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\obj\\",
+        "outputPath": "C:\\Users\\Dgo\\Documents\\IPC2-Ejemplos_1S_2026\\semana_2\\Abstraccion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dgo\\AppData\\Roaming\\NuGet\\NuGet.Config",

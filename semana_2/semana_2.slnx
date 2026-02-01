@@ -1,9 +1,3 @@
 <Solution>
-  <Project Path="../Abstraccion/Abstraccion.csproj" Id="54b1c436-eca5-4abc-a514-e24bd8d96108" />
-  <Project Path="../Clases_e_instanciacion/Clases_e_instanciacion.csproj" Id="f4d9ca02-f45f-4304-a278-868687d3daeb" />
-  <Project Path="../Encapsulamiento/Encapsulamiento.csproj" Id="7bdebf28-278a-4546-93e9-65bbcaba160f" />
-  <Project Path="../Herencia/Herencia.csproj" Id="a7080c26-5dfb-4dd6-a85f-d655bd3afe47" />
-  <Project Path="../Polimorfismo/Polimorfismo.csproj" Id="85d79b51-53d5-4cdb-b449-e53e2eccd5b5" />
-  <Project Path="../PooCompleto/PooCompleto.csproj" Id="76495d02-dd6b-4bc5-9dc4-25d9860663f0" />
   <Project Path="semana_2.csproj" />
 </Solution>
