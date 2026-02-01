@@ -1,0 +1,15 @@
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\bin\Debug\net10.0\PooCompleto.exe
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\bin\Debug\net10.0\PooCompleto.deps.json
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\bin\Debug\net10.0\PooCompleto.runtimeconfig.json
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\bin\Debug\net10.0\PooCompleto.dll
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\bin\Debug\net10.0\PooCompleto.pdb
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.AssemblyInfoInputs.cache
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.AssemblyInfo.cs
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.csproj.CoreCompileInputs.cache
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.sourcelink.json
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.dll
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\refint\PooCompleto.dll
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.pdb
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\PooCompleto.genruntimeconfig.cache
+C:\Users\Dgo\Documents\IPC2 2026\PooCompleto\obj\Debug\net10.0\ref\PooCompleto.dll

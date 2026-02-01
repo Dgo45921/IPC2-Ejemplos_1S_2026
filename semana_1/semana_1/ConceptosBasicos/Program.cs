@@ -9,10 +9,10 @@ class Program
 {
     static void Main()
     {
-        // Variables.Run();
-        // Strings.Run();
-        // Condicionales.Run();
-        // Funciones.Run();
+        Variables.Run();
+        Strings.Run();
+        Condicionales.Run();
+        Funciones.Run();
         Iteraciones.Run();
     }
 }
